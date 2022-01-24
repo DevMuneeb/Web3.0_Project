@@ -1,5 +1,5 @@
 # Web 3.0 Blockchain Application
-![alt test](https://ibb.co/Yt8mjbH)
+<img src="https://ibb.co/Yt8mjbH" width="350" title="hover text">
 
 ## Introduction
 
